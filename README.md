@@ -115,7 +115,7 @@ We deeply appreciate the tools and resources that make this project possible.
 ### Copyright
 **© 2025 Bored008**. All Rights Reserved.
 Licensed under the [Custom License](LICENSE).  
-Developed with ❤️ by [Bored008](https://Bored008.is-a.dev).
+Developed with ❤️ by [Bored008](https://portfolio-sandy-five-90.vercel.app/).
 
 ---
 
@@ -126,8 +126,8 @@ Developed with ❤️ by [Bored008](https://Bored008.is-a.dev).
 - **[Security Policy](.github/SECURITY.md)**
 
 ### Contact
-- **Email**: mail@Bored008.is-a.dev
-- **Website**: [Bored008.is-a.dev](https://Bored008.is-a.dev)
+- **Email**: dahiyahimanshu80@gmail.com
+- **Website**: [Bored008.is-a.dev](https://portfolio-sandy-five-90.vercel.app/)
 - **GitHub**: [@Bored008](https://github.com/Bored008)
 
 ---
