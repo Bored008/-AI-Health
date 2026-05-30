@@ -77,21 +77,21 @@ export function Footer() {
             <h4 className="font-semibold">Connect</h4>
             <div className="flex gap-4">
               <Link
-                href="https://github.com/Bored008/AI-Health"
+                href="https://github.com/Bored008/"
                 target="_blank"
                 className="text-muted-foreground hover:text-emerald-400 transition-colors"
               >
                 <Github className="w-5 h-5" />
               </Link>
               <Link
-                href="https://linkedin.com/in/Bored008"
+                href="https://www.linkedin.com/in/himanshuakabored/"
                 target="_blank"
                 className="text-muted-foreground hover:text-emerald-400 transition-colors"
               >
                 <Linkedin className="w-5 h-5" />
               </Link>
               <Link
-                href="https://Bored008.is-a.dev"
+                href="https://portfolio-sandy-five-90.vercel.app/"
                 target="_blank"
                 className="text-muted-foreground hover:text-emerald-400 transition-colors"
               >
